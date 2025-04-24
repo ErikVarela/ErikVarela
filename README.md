@@ -1,16 +1,14 @@
-## Hi there 👋
+## About Me 👨‍💻
 
-<!--
-**ErikVarela/ErikVarela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Languages](https://img.shields.io/badge/Languages%20-%20Java%20%7C%20Python-blue) ![Open to Work](https://img.shields.io/badge/Open_to_Work-blue) 
+![](https://raw.githubusercontent.com/jarthurdev/jarthurdev/main/alien.gif)
+### About me 😃 
+- 🎓 Acadêmico de Ciência da Computação
+- 🔭 Atualmente criando projetos em Java
+- 🌱 Estudo Cibersegurança no tempo livre
+- 👯 Busco contribuir em projetos de código aberto
 
-Here are some ideas to get you started:
+## 📊 Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikVarela&layout=compact&theme=radical)
+

@@ -1,6 +1,6 @@
 ## About Me 👨‍💻
-
 ![Languages](https://img.shields.io/badge/Languages%20-%20Java%20%7C%20Python-blue) ![Open to Work](https://img.shields.io/badge/Open_to_Work-blue) 
+
 ![](https://raw.githubusercontent.com/jarthurdev/jarthurdev/main/alien.gif)
 ### About me 😃 
 - 🎓 Acadêmico de Ciência da Computação

@@ -7,6 +7,7 @@
 - 🔭 Atualmente criando projetos em Java
 - 🌱 Estudo Cibersegurança no tempo livre
 - 👯 Busco contribuir em projetos de código aberto
+- 💻 Domino versionamento de código no Git 
 
 ## 📊 Stats
 
